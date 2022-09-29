@@ -1,5 +1,6 @@
 # Assignment2
 Rube Goldberg Machine
+
 Nick Severson
 
 ![profile pic](https://i.imgur.com/1u8UkL5.jpg)
@@ -16,3 +17,8 @@ first stage has the starting ball fall through a trigger plane, causing the red 
  One problem I was stuck on for quite some time was getting the text to change from my FinalTrigger 
  script. The solution (which turned out to be very simple) came from using a TextMeshPro object rather 
  than a TextMeshProUGUI object.
+
+
+Video Link:
+
+https://youtu.be/-ZhY75fK5W8

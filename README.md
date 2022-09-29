@@ -1,7 +1,8 @@
 # Assignment2
 Rube Goldberg Machine
 Nick Severson
-![alt text](https://github.com/nseverson/Assignment2/blob/main/profilepic.jpg?raw=true)
+
+![profile pic](https://imgur.com/a/nnr9ruI)
 
 In this project, I created a Rube Goldberg with 4 stages and 2 triggers. The 4 different stages are 
 all color coded (red for the first, yellow for the second, green for the third, and blue last). The 
